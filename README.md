@@ -73,5 +73,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Filename: cron_job_manager.sh
 ### Version: 1.0
 ### Date: 2024-09-05
-### Description: A simple bash script to manage cron jobs (list, add, edit, delete, view logs).
+#### Description: A simple bash script to manage cron jobs (list, add, edit, delete, view logs).
 ### License: MIT License
