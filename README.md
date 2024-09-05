@@ -50,7 +50,9 @@ To add a new cron job, you will need to provide:
    - `0 2 * * 1` → Every Monday at 2 AM
 
 Example of adding a cron job:
-Enter the command you want to execute (e.g., '/home/user/backup.sh'): /path/to/script.sh Enter the frequency in cron format (e.g., '*/5 * * * *'): */10 * * * *
+Enter the command you want to execute (e.g., '/home/user/backup.sh'):       
+
+      /path/to/script.sh Enter the frequency in cron format (e.g., '*/5 * * * *'): */10 * * * *
 
 ### Editing or Deleting a Cron Job
 
