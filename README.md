@@ -21,3 +21,13 @@ A simple bash script to manage cron jobs (list, add, edit, delete, view logs).
    ```bash
    git clone https://github.com/tu-usuario/cron-job-manager.git
    cd cron-job-manager
+
+2. Make the script executable:
+   ```bash
+   chmod +x cron_job_manager.sh
+4. Run the script:
+   ```bash
+   ./cron_job_manager.sh
+
+## Usage
+
