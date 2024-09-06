@@ -30,7 +30,7 @@ A simple bash script to manage cron jobs (list, add, edit, delete, view logs).
    ./cron_job_manager.sh
 
 ## Usage
-- **Once the script is running, you will be presented with a menu:
+- Once the script is running, you will be presented with a menu:
 
       ========================
       1. List cron jobs
